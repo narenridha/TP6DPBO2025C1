@@ -54,4 +54,5 @@ Kelas yang merepresentasikan **burung** yang dikendalikan pemain. Menyimpan data
 
 ![image](https://github.com/user-attachments/assets/9a663c05-e4b0-43d1-9547-6faa97d64b42)
 
-![image](https://github.com/user-attachments/assets/5b5163ae-9b76-4632-8370-661dd14d0b79)
+![Uploading image.png…]()
+
