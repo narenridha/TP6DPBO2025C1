@@ -46,6 +46,12 @@ Kelas yang merepresentasikan **burung** yang dikendalikan pemain. Menyimpan data
 3. Tekan tombol **spasi** untuk membuat burung terbang.
 4. Hindari tabrakan dengan pipa dan jangan jatuh ke bawah.
 5. Tekan **R** untuk me-restart game saat game over.
+
+---
+
+## Dokumentasi
 ![image](https://github.com/user-attachments/assets/75d4afe9-ba1a-45f5-9b1b-d615a965ef7e)
+
 ![image](https://github.com/user-attachments/assets/9a663c05-e4b0-43d1-9547-6faa97d64b42)
+
 ![image](https://github.com/user-attachments/assets/5b5163ae-9b76-4632-8370-661dd14d0b79)
